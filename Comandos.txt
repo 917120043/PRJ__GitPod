@@ -1,0 +1,26 @@
+Comandos
+
+git branch projeto_1
+git checkout projeto_1
+git add .
+git commit -m "arquivo MeusDados.txt"
+git checkout master
+git merge projeto_1
+git branch projeto_2
+git checkout projeto_2
+git add .
+git commit -m "Arquivo MeusDados.txt"
+git checkout master
+git merge projeto_2
+git log
+git revert  a319f80e37710b5bef92915304dd783c17917327
+git branch projeto_3
+git checkout projeto_3
+git add .
+git commit -m "arquivo MeusDados.txt"
+git add .
+git commit -m "arquivo MeuCurso.txt"
+git checkout master
+git merge projeto_3
+git branch Comandos
+git checkout Comandos
