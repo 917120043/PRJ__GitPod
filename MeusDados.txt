@@ -1,3 +1,6 @@
 Ra:
 Nome:
 Curso:
+Data Nascimento:
+Email:
+Retire o Linha Curso:
