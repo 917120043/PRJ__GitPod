@@ -4,12 +4,14 @@ git branch projeto_1
 git checkout projeto_1
 git add .
 git commit -m "arquivo MeusDados.txt"
+git push origin projeto_1
 git checkout master
 git merge projeto_1
 git branch projeto_2
 git checkout projeto_2
 git add .
 git commit -m "Arquivo MeusDados.txt"
+git push origin projeto_2
 git checkout master
 git merge projeto_2
 git log
@@ -20,6 +22,7 @@ git add .
 git commit -m "arquivo MeusDados.txt"
 git add .
 git commit -m "arquivo MeuCurso.txt"
+git push origin projeto_3
 git checkout master
 git merge projeto_3
 git branch Comandos
